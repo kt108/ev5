@@ -16,7 +16,8 @@
 extern "C"
 {
 #endif
-
+#include "nuc123.h"
+#include <stdint.h>
 
 /** @addtogroup Standard_Driver Standard Driver
   @{
